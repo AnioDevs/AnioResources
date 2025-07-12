@@ -1,0 +1,12 @@
+// -- Licensed Dataset -- \\
+
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+You are free to share and adapt this dataset, under the condition that you give appropriate credit and share any derivative works under the same license.
+
+More info: https://creativecommons.org/licenses/by-sa/4.0/
+
+// -- Unlicensed Dataset -- \\
+
+This dataset is dedicated to the public domain under the Creative Commons CC0 1.0 Universal License.
+
+More info: https://creativecommons.org/publicdomain/zero/1.0/

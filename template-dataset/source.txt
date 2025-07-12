@@ -1,0 +1,16 @@
+// -- Licensed Dataset -- \\
+
+This dataset was collected from [Source] by [your-username] and is provided for public use under attribution requirements.
+
+Full source breakdown:
+- Data-1 from [Source], [Page/Article]. Licensed under [License]
+- Data-1 has additional data from [Source], [Page/Article], licensed under [License]
+
+
+// -- Unlicensed Dataset -- \\
+
+This dataset was manually collected and compiled by [your-username] and is released to the public domain under [License]
+
+Notes:
+- Data-1 gathered from open public sources and verified manually
+- Contributions by [contributor-name]
